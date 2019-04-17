@@ -1,0 +1,13 @@
+.header-top .row {
+	height: 25px;
+	padding: 18px 0px 18px 0px;
+	vertical-align: middle;
+}
+
+.main-navbar {
+	background-color: #282828;
+}
+
+.main-navbar a {
+	color: white;
+}
